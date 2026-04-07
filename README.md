@@ -1,2 +1,4 @@
-# j-j-lawn-and-landscaping
-Website for J J Lawn And Landscaping - Professional services
+# J J Lawn And Landscaping
+**Note:** Business information needs verification
+
+Lawn and landscaping services.
